@@ -1,4 +1,4 @@
-let timer = 100;
+let timer = 30;
 let rn = 0;
 let score = 0;
 function makeBubble(){
